@@ -1,2 +1,2 @@
-# clothes-image-classification-analysis
-옷 이미지 분류에 적합한 모델 선택 및 weight 추출
+# 보고서 링크
+https://givemethatsewon.notion.site/MobileNetV2-113e3a7d940880f4a3fce0e4ef468aed?pvs=4
